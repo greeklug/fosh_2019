@@ -48,4 +48,3 @@
 Ένα εκπαιδευτικό βοήθημα προς νέους χρήστες με βασικές ερωτήσεις και πληροφορίες που θα βοηθήσουν κάποιον νέο χρήστη ώστε να ξεκινήσει τα πρώτα του βήματα στο Raspberry Pi!
 
 ![contribution](https://edu.greeklug.gr/data/fosh_2019/raspberrypi_contribution.jpg)
-
